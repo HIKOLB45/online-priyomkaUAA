@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Недорогоцінні метали</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Недорогоцінні метали</h1>
+  <a href="index.html">← Повернутися на головну</a>
+</header>
+<main>
+<table>
+<thead>
+<tr><th>Матеріал</th><th>Ціна</th><th>Ціна з акт. прийому</th><th>Од.в.</th></tr>
+</thead>
+<tbody>
+<tr><td>Мідь блиск</td><td>490,00 ₴</td><td>492,00 ₴</td><td>кг</td></tr>
+<tr><td>Мідь</td><td>460,00 ₴</td><td>465,00 ₴</td><td>кг</td></tr>
+<tr><td>Мідь фосфориста</td><td>550,00 ₴</td><td>0,00 ₴</td><td>кг</td></tr>
+<tr><td>Латунь</td><td>255,00 ₴</td><td>257,00 ₴</td><td>кг</td></tr>
+<tr><td>Радіатори</td><td>240,00 ₴</td><td>245,00 ₴</td><td>кг</td></tr>
+<tr><td>Стружка мідна</td><td>340,00 ₴</td><td>343,00 ₴</td><td>кг</td></tr>
+<tr><td>Стружка латунь</td><td>230,00 ₴</td><td>233,00 ₴</td><td>кг</td></tr>
+<tr><td>Алюміній</td><td>75,00 ₴</td><td>76,00 ₴</td><td>кг</td></tr>
+<tr><td>Алюміній 50%</td><td>35,00 ₴</td><td>36,00 ₴</td><td>кг</td></tr>
+<tr><td>Алюміній тех(кабель, посуд)</td><td>108,00 ₴</td><td>110,00 ₴</td><td>кг</td></tr>
+<tr><td>Алюміній профіль</td><td>90,00 ₴</td><td>91,00 ₴</td><td>кг</td></tr>
+<tr><td>Алюміній баночка</td><td>17,00 ₴</td><td>19,00 ₴</td><td>кг</td></tr>
+<tr><td>Алюміній стружка</td><td>15,00 ₴</td><td>17,00 ₴</td><td>кг</td></tr>
+<tr><td>Свинець</td><td>55,00 ₴</td><td>57,00 ₴</td><td>кг</td></tr>
+<tr><td>Свинець шиномонтаж</td><td>35,00 ₴</td><td>37,00 ₴</td><td>кг</td></tr>
+<tr><td>Нержавійка 8</td><td>10,00 ₴</td><td>12,00 ₴</td><td>кг</td></tr>
+<tr><td>Нержавійка 10</td><td>20,00 ₴</td><td>22,00 ₴</td><td>кг</td></tr>
+<tr><td>Титан</td><td>70,00 ₴</td><td>72,00 ₴</td><td>кг</td></tr>
+<tr><td>ЦАМ</td><td>50,00 ₴</td><td>51,00 ₴</td><td>кг</td></tr>
+<tr><td>Цинк</td><td>60,00 ₴</td><td>61,00 ₴</td><td>кг</td></tr>
+<tr><td>Магній</td><td>15,00 ₴</td><td>17,00 ₴</td><td>кг</td></tr>
+</tbody>
+</table>
+</main>
+</body>
+</html>
