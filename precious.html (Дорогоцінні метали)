@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Дорогоцінні метали</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Дорогоцінні метали</h1>
+  <a href="index.html">← Повернутися на головну</a>
+</header>
+<main>
+<table>
+<thead>
+<tr><th>Матеріал</th><th>Ціна</th><th>Од.в.</th></tr>
+</thead>
+<tbody>
+<tr><td>Au999</td><td>6 800,00 ₴</td><td>грам</td></tr>
+<tr><td>Au995</td><td>6 616,75 ₴</td><td>грам</td></tr>
+<tr><td>Au333</td><td>2 100,00 ₴</td><td>грам</td></tr>
+<tr><td>Au375</td><td>2 400,00 ₴</td><td>грам</td></tr>
+<tr><td>Au585</td><td>3 850,00 ₴</td><td>грам</td></tr>
+<tr><td>Au750</td><td>4 900,00 ₴</td><td>грам</td></tr>
+<tr><td>Au990</td><td>6 583,50 ₴</td><td>грам</td></tr>
+<tr><td>Au980</td><td>6 517,00 ₴</td><td>грам</td></tr>
+<tr><td>Родій 999</td><td>3 000,00 ₴</td><td>грам</td></tr>
+<tr><td>Срібло 980</td><td>104,00 ₴</td><td>грам</td></tr>
+<tr><td>Срібло 925</td><td>96,00 ₴</td><td>грам</td></tr>
+<tr><td>Срібло 900</td><td>94,00 ₴</td><td>грам</td></tr>
+<tr><td>Срібло 800</td><td>84,00 ₴</td><td>грам</td></tr>
+</tbody>
+</table>
+</main>
+</body>
+</html>
