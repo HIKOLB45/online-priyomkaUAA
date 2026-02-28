@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Зворотній зв’язок</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Зворотній зв’язок</h1>
+  <a href="index.html">← Повернутися на головну</a>
+</header>
+<main>
+<form>
+  <input type="text" placeholder="Ваше ім'я" required>
+  <input type="email" placeholder="Ваш email" required>
+  <textarea placeholder="Повідомлення" rows="6" required></textarea>
+  <button type="submit">Надіслати</button>
+</form>
+</main>
+</body>
+</html>
