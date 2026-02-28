@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Онлайн прийомка металів</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Онлайн прийомка металів</h1>
+</header>
+<main>
+<div class="cards-container">
+  <a href="non_precious.html" class="card">Недорогоцінні метали</a>
+  <a href="precious.html" class="card">Дорогоцінні метали</a>
+  <a href="contact.html" class="card">Зворотній зв’язок</a>
+</div>
+</main>
+</body>
+</html>
